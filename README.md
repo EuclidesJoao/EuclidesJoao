@@ -22,30 +22,21 @@
 - 🌱 Learning **DDD, Microservices, and AI integrations**
 - 👨‍💻 Love building **scalable backends & mobile apps**
 - 🎯 Goal: Become a **top full-stack & AI-powered solutions engineer**
-- ⚡ Fun fact: I enjoy **chess, basketball, and writing poetry** 🏀📖♟
+- ⚡ Fun fact: I enjoy **chess, and writing poetry** 🏀📖♟
 
 ---
 
 ### 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,reactnative,nestjs,express,mongodb,postgresql,git,github,docker,linux" />
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=euclides-joao&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=euclides-joao&theme=tokyonight" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=euclides-joao&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nestjs,express,mongodb,postgresql,git,github,docker,linux" />
 </p>
 
 ---
 
 ### 🌍 Let's Connect!
 <p align="center">
-  <a href="https://twitter.com/Mr_Eucli_
+  <a href="[https://twitter.com/Mr_Euclides](https://x.com/Euclides_GM)" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/euclides-joao" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:youremail@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+</p>
+
